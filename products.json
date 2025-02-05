@@ -6,32 +6,23 @@
             {
                 "type": "Likes",
                 "quantities": [
-                    { "quantity": 100, "price": 100 },
-                    { "quantity": 500, "price": 500 },
-                    { "quantity": 1000, "price": 1000 },
-                    { "quantity": 5000, "price": 5000 }
+                    { "quantity": 100, "price": 100 }
                 ]
             },
             {
                 "type": "Vistas",
                 "quantities": [
-                    { "quantity": 100, "price": 100 },
-                    { "quantity": 500, "price": 500 },
-                    { "quantity": 1000, "price": 1000 },
-                    { "quantity": 5000, "price": 5000 }
+                    { "quantity": 100, "price": 100 }
                 ]
             },
             {
                 "type": "Seguidores",
                 "quantities": [
-                    { "quantity": 100, "price": 1000 },
-                    { "quantity": 500, "price": 5000 },
-                    { "quantity": 1000, "price": 10000 },
-                    { "quantity": 5000, "price": 50000 }
+                    { "quantity": 100, "price": 1000 }
                 ]
             }
         ],
-        "bonus": 15
+        "bonus": 5
     },
     {
         "image": "./facebook.svg",
@@ -40,32 +31,23 @@
             {
                 "type": "Likes",
                 "quantities": [
-                    { "quantity": 100, "price": 500 },
-                    { "quantity": 500, "price": 2500 },
-                    { "quantity": 1000, "price": 5000 },
-                    { "quantity": 5000, "price": 25000 }
+                    { "quantity": 100, "price": 500 }
                 ]
             },
             {
                 "type": "Vistas",
                 "quantities": [
-                    { "quantity": 100, "price": 50 },
-                    { "quantity": 500, "price": 250 },
-                    { "quantity": 1000, "price": 500 },
-                    { "quantity": 5000, "price": 2500 }
+                    { "quantity": 100, "price": 50 }
                 ]
             },
             {
                 "type": "Seguidores",
                 "quantities": [
-                    { "quantity": 100, "price": 1000 },
-                    { "quantity": 500, "price": 5000 },
-                    { "quantity": 1000, "price": 10000 },
-                    { "quantity": 5000, "price": 50000 }
+                    { "quantity": 100, "price": 1000 }
                 ]
             }
         ],
-        "bonus": 15
+        "bonus": 5
     },
     {
         "image": "./tiktok.svg",
@@ -74,65 +56,54 @@
             {
                 "type": "Likes",
                 "quantities": [
-                    { "quantity": 100, "price": 2000 },
-                    { "quantity": 500, "price": 10000 },
-                    { "quantity": 1000, "price": 20000 },
-                    { "quantity": 5000, "price": 100000 }
+                    { "quantity": 100, "price": 2000 }
                 ]
             },
             {
                 "type": "Vistas",
                 "quantities": [
-                    { "quantity": 100, "price": 2000 },
-                    { "quantity": 500, "price": 10000 },
-                    { "quantity": 1000, "price": 20000 },
-                    { "quantity": 5000, "price": 100000 }
+                    { "quantity": 100, "price": 2000 }
                 ]
             },
             {
                 "type": "Seguidores",
                 "quantities": [
-                    { "quantity": 100, "price": 2000 },
-                    { "quantity": 500, "price": 10000 },
-                    { "quantity": 1000, "price": 20000 },
-                    { "quantity": 5000, "price": 100000 }
+                    { "quantity": 100, "price": 2000 }
                 ]
             }
         ],
-        "bonus": 15
+        "bonus": 5
     },
     {
         "image": "./youtube.svg",
         "title": "Social Media Interaction",
         "options": [
             {
-                "type": "Likes",
+                "type": "Reproducciones de transmisiones en vivo",
                 "quantities": [
-                    { "quantity": 100, "price": 100 },
-                    { "quantity": 500, "price": 500 },
-                    { "quantity": 1000, "price": 1000 },
-                    { "quantity": 5000, "price": 5000 }
+                    { "quantity": 100, "duration": 240, "delivery": "Instantánea", "price": 719.94 }
                 ]
             },
             {
                 "type": "Vistas",
+                "features": ["Sin caídas", "Alta clasificación", "Fuentes sugeridas", "Garantía de por vida ♻️"],
                 "quantities": [
-                    { "quantity": 100, "price": 1000 },
-                    { "quantity": 500, "price": 5000 },
-                    { "quantity": 1000, "price": 10000 },
-                    { "quantity": 5000, "price": 50000 }
+                    { "quantity": 100, "price": 538.02 }
                 ]
             },
             {
-                "type": "Seguidores",
+                "type": "Suscriptores",
                 "quantities": [
-                    { "quantity": 100, "price": 2000 },
-                    { "quantity": 500, "price": 10000 },
-                    { "quantity": 1000, "price": 20000 },
-                    { "quantity": 5000, "price": 100000 }
+                    { "quantity": 100, "delivery": "Instantánea (Máximo 1M, Velocidad 2000/día)", "conditions": "El canal debe tener +1 video de al menos 3 minutos", "warranty": "R365 ♻️", "price": 2228.52 }
+                ]
+            },
+            {
+                "type": "Me gusta",
+                "quantities": [
+                    { "quantity": 100, "delivery": "Más rápido (Máximo 500K)", "warranty": "R150 ♻️", "price": 70.92 }
                 ]
             }
         ],
-        "bonus": 15
+        "bonus": 5
     }
 ]
