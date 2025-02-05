@@ -47,21 +47,15 @@
         "title": "Social Media Interaction",
         "options": [
             {
-                "type": "Likes",
+                "type": "Seguidores de perfil/página",
                 "quantities": [
-                    { "quantity": 100, "price": 500 }
+                    { "quantity": 100, "features": "Todos los tipos, Instantáneo", "warranty": "Recarga de 30 días ♻", "price": 317.52 }
                 ]
             },
             {
-                "type": "Vistas",
+                "type": "Me gusta en reacciones a publicaciones",
                 "quantities": [
-                    { "quantity": 100, "price": 50 }
-                ]
-            },
-            {
-                "type": "Seguidores",
-                "quantities": [
-                    { "quantity": 100, "price": 1000 }
+                    { "quantity": 100, "price": 252.84 }
                 ]
             }
         ],
@@ -72,21 +66,27 @@
         "title": "Social Media Interaction",
         "options": [
             {
-                "type": "Likes",
+                "type": "Vistas de transmisión en vivo",
                 "quantities": [
-                    { "quantity": 100, "price": 2000 }
+                    { "quantity": 100, "duration": 120, "price": 2178.54 }
                 ]
             },
             {
-                "type": "Vistas",
+                "type": "Me gusta",
                 "quantities": [
-                    { "quantity": 100, "price": 2000 }
+                    { "quantity": 100, "features": "Alta calidad, Instantáneo", "price": 51.45 }
                 ]
             },
             {
                 "type": "Seguidores",
                 "quantities": [
-                    { "quantity": 100, "price": 2000 }
+                    { "quantity": 100, "features": "Instantáneo, Alta calidad", "warranty": "Recarga de 30 días ♻", "price": 581.76 }
+                ]
+            },
+            {
+                "type": "Reproducciones",
+                "quantities": [
+                    { "quantity": 100, "features": "Rápidas", "price": 1.11 }
                 ]
             }
         ],
@@ -119,6 +119,25 @@
                 "type": "Me gusta",
                 "quantities": [
                     { "quantity": 100, "delivery": "Más rápido (Máximo 500K)", "warranty": "R150 ♻️", "price": 70.92 }
+                ]
+            }
+        ],
+        "bonus": 5
+    },
+    {
+        "image": "./twitch.svg",
+        "title": "Servicios de SMM - Twitch",
+        "options": [
+            {
+                "type": "Espectadores de transmisiones en vivo",
+                "quantities": [
+                    { "quantity": 100, "duration": 240, "price": 2750.37 }
+                ]
+            },
+            {
+                "type": "Seguidores",
+                "quantities": [
+                    { "quantity": 100, "features": "Reales, Alta calidad (Máximo 10,000)", "price": 1058.40 }
                 ]
             }
         ],
